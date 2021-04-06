@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Bitcoin - 1 BTC",
+    "subtitle": "8190.65",
+    "text": "1 XBT = 8,202.69 USD"
+  },
+  {
+    "id": "2",
+    "title": "Bitcoin - 1 BTC",
+    "subtitle": "8164.60",
+    "text": "1 X BT = 8,164.60 Euro"
+  },
+  {
+    "id": "3",
+    "title": "Bitcoin - 1 BTC",
+    "subtitle": "6957.50",
+    "text": "1 X BT = 6,957.50 Pound"
+  },
+  {
+    "id": "4",
+    "title": "Bitcoin - 1 BTC",
+    "subtitle": "6930.57",
+    "text": "1 X BT = 6,930.57 IR"
+  },
+  {
+    "id": "5",
+    "title": "Bitcoin - 1 BTC",
+    "subtitle": "7394.77",
+    "text": "1 X BT = 7,394.77 BDT"
+  },
+  {
+    "id": "6",
+    "title": "Bitcoin - 1 BTC",
+    "subtitle": "3951.04",
+    "text": "1 X BT = 3,951.04 Riyal"
+  }
+]

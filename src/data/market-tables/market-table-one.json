@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "symbol": "Bitcoin (BTC)",
+    "price": 8003.77,
+    "volume": 8919790000,
+    "percent": -8.03
+  },
+  {
+    "id": "2",
+    "symbol": "Ethereum (ETH)",
+    "price": 799.77,
+    "volume": 3401300000,
+    "percent": -15.59
+  },
+  {
+    "id": "3",
+    "symbol": "Ripple (XRP)",
+    "price": 8003.77,
+    "volume": 8919790000,
+    "percent": -8.03
+  },
+  {
+    "id": "4",
+    "symbol": "Bitcoin Cash (BCH)",
+    "price": 799.77,
+    "volume": 3401300000,
+    "percent": -15.59
+  },
+  {
+    "id": "5",
+    "symbol": "Cardano (ADA)",
+    "price": 8003.77,
+    "volume": 8919790000,
+    "percent": -8.03
+  },
+  {
+    "id": "6",
+    "symbol": "Litecoin (LTC)",
+    "price": 799.77,
+    "volume": 3401300000,
+    "percent": -15.59
+  },
+  {
+    "id": "7",
+    "symbol": "Stellar (XML)",
+    "price": 8003.77,
+    "volume": 8919790000,
+    "percent": -8.03
+  },
+  {
+    "id": "8",
+    "symbol": "IOTA (MIOTA)",
+    "price": 799.77,
+    "volume": 3401300000,
+    "percent": -15.59
+  }
+]

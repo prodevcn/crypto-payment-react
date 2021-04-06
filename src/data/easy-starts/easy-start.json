@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "icon": "/images/icons/1.png",
+    "title": "Easy Access",
+    "link": "/service-details",
+    "text": "There are many variations of passages Lorem Ipsum available, but the majority have suffered"
+  },
+  {
+    "id": "2",
+    "icon": "/images/icons/2.png",
+    "title": "Recharge Wallet",
+    "link": "/service-details",
+    "text": "There are many variations of passages Lorem Ipsum available, but the majority have suffered"
+  },
+  {
+    "id": "3",
+    "icon": "/images/icons/3.png",
+    "title": "Go With Coin",
+    "link": "/service-details",
+    "text": "There are many variations of passages Lorem Ipsum available, but the majority have suffered"
+  }
+]

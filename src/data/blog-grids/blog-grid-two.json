@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Why Bitcoin is popular? ",
+    "excerpt": "There are many variations passages of Lorem Ipsum available,the majority have suffered alteration in some form.",
+    "date": "13 Feb 2020",
+    "author": "John Doe",
+    "image": "/images/blog/md-img/3.jpg",
+    "url": "/blog-post"
+  },
+  {
+    "id": "2",
+    "title": "Three things to know about bitcoin.",
+    "excerpt": "There are many variations passages of Lorem Ipsum available,the majority have suffered alteration in some form.",
+    "date": "14 Feb 2020",
+    "author": "Jonathon Doe",
+    "image": "/images/blog/md-img/4.jpg",
+    "url": "/blog-post"
+  },
+  {
+    "id": "3",
+    "title": "When to use Bitcoin?",
+    "excerpt": "There are many variations passages of Lorem Ipsum available,the majority have suffered alteration in some form.",
+    "date": "15 Feb 2020",
+    "author": "James Doe",
+    "image": "/images/blog/md-img/5.jpg",
+    "url": "/blog-post"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "How to Spend",
+    "excerpt": "Find out where you can pay for various goods and services with your RoyalTransfert wallet.",
+    "icon": "/images/wprocess/wallet.svg",
+    "url": "/contact",
+    "link": "HOW TO SPEND"
+  },
+  {
+    "id": "2",
+    "title": "Connect Your Website",
+    "excerpt": "Connect to RoyalTransfert and accept payments from millions of customers all over the world.",
+    "icon": "/images/wprocess/api.svg",
+    "url": "/contact",
+    "link": "ACCEPT PAYMENTS"
+  },
+  {
+    "id": "3",
+    "title": "Deposit and Withdraw",
+    "excerpt": "You can add funds to RoyalTransfert and withdraw them with numerous international.",
+    "icon": "/images/wprocess/payeer-card.svg",
+    "url": "/contact",
+    "link": "DEPOSIT / WITHDRAW"
+  }
+]

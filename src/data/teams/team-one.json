@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "image": "/images/team/md-img/1.jpg",
+    "url": "/",
+    "position": "CEO",
+    "facebookUrl": "//www.facebook.com",
+    "googleUrl": "//www.google.com",
+    "twitterUrl": "//www.twitter.com",
+    "tumblrUrl": "//www.tumblr.com"
+  },
+  {
+    "id": "2",
+    "name": "Virginia Perry",
+    "image": "/images/team/md-img/2.jpg",
+    "url": "/",
+    "position": "COO",
+    "facebookUrl": "//www.facebook.com",
+    "googleUrl": "//www.google.com",
+    "twitterUrl": "//www.twitter.com",
+    "tumblrUrl": "//www.tumblr.com"
+  },
+  {
+    "id": "3",
+    "name": "Alice Herrera",
+    "image": "/images/team/md-img/3.jpg",
+    "url": "/",
+    "position": "CTO",
+    "facebookUrl": "//www.facebook.com",
+    "googleUrl": "//www.google.com",
+    "twitterUrl": "//www.twitter.com",
+    "tumblrUrl": "//www.tumblr.com"
+  },
+  {
+    "id": "4",
+    "name": "Raymond Stephens",
+    "image": "/images/team/md-img/4.jpg",
+    "url": "/",
+    "position": "Developer",
+    "facebookUrl": "//www.facebook.com",
+    "googleUrl": "//www.google.com",
+    "twitterUrl": "//www.twitter.com",
+    "tumblrUrl": "//www.tumblr.com"
+  },
+  {
+    "id": "5",
+    "name": "Christopher Bowman",
+    "image": "/images/team/md-img/5.jpg",
+    "url": "/",
+    "position": "Designer",
+    "facebookUrl": "//www.facebook.com",
+    "googleUrl": "//www.google.com",
+    "twitterUrl": "//www.twitter.com",
+    "tumblrUrl": "//www.tumblr.com"
+  },
+  {
+    "id": "6",
+    "name": "Linda Bradley",
+    "image": "/images/team/md-img/6.jpg",
+    "url": "/",
+    "position": "Marketing Officer",
+    "facebookUrl": "//www.facebook.com",
+    "googleUrl": "//www.google.com",
+    "twitterUrl": "//www.twitter.com",
+    "tumblrUrl": "//www.tumblr.com"
+  }
+]

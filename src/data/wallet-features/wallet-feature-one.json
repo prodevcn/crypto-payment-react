@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "image": "/images/service/icon/10.png",
+    "title": "Fast Access",
+    "content": "Lorem Ipsum is simply dummy text of the printing typesetting industry."
+  },
+  {
+    "id": "2",
+    "image": "/images/service/icon/11.png",
+    "title": "Speed Transfer",
+    "content": "Lorem Ipsum is simply dummy text of the printing typesetting industry."
+  },
+  {
+    "id": "3",
+    "image": "/images/service/icon/12.png",
+    "title": "Low Cost",
+    "content": "Lorem Ipsum is simply dummy text of the printing typesetting industry."
+  },
+  {
+    "id": "4",
+    "image": "/images/service/icon/13.png",
+    "title": "Reliable",
+    "content": "Lorem Ipsum is simply dummy text of the printing typesetting industry."
+  }
+]

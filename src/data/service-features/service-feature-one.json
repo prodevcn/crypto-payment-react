@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "icon": "/images/service/icon/7.png",
+    "title": "Safe Service",
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply."
+  },
+  {
+    "id": "2",
+    "icon": "/images/service/icon/8.png",
+    "title": "Fast Transfer",
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply."
+  },
+  {
+    "id": "3",
+    "icon": "/images/service/icon/9.png",
+    "title": "Secure Transfer",
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply."
+  }
+]
